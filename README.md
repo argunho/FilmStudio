@@ -1,4 +1,4 @@
-# Studieuppgift: FilmStudio (Asp.net COre 3.1 RestApi&Swagger)
+# Studieuppgift: FilmStudio (Asp.net Core 3.1 RestApi&Swagger)
 
 ### RestApi applikation med Swagger
 [Demo](argunho-002-site3.ftempurl.com)
