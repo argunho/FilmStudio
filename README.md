@@ -1,7 +1,7 @@
 # Studieuppgift: FilmStudio (Asp.net Core 3.1 RestApi&Swagger)
 
 ### RestApi applikation med Swagger
-[Demo](argunho-002-site3.ftempurl.com)
+[Demo](http://argunho-002-site3.ftempurl.com/swagger/index.html)
 
 ### För inlämningsuppgiften: Filmstudion
 
