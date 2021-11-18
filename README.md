@@ -1,4 +1,8 @@
-# Studio Uppgift: FilmStudio (Asp.net COre 3.1 RestApi&Swagger)
+# Studieuppgift: FilmStudio (Asp.net COre 3.1 RestApi&Swagger)
+
+### RestApi applikation med Swagger
+[Demo](argunho-002-site3.ftempurl.com)
+
 ### För inlämningsuppgiften: Filmstudion
 
 I detta påhittade uppdrag så ska ni jobba för [Sveriges Förenade Filmstudios](https://www.filmstudio.se) (SFF) och utveckla ett API som filmstudion kan anropa för att beställa film.
